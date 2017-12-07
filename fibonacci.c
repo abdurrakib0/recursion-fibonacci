@@ -13,7 +13,7 @@ int main()
 
     for(int i = 0; i <= n; i++)
     {
-        printf("%i ", fibonacci(i));
+        printf("%i ", fibonacci(i)); //prints fibonacci number one by one
     }
 }
 
